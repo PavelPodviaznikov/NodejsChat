@@ -1,0 +1,28 @@
+{
+  "name": "quizzy",
+  "version": "1.0.0",
+  "description": "Quiz app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PavelPodviaznikov/NodejsChat.git"
+  },
+  "keywords": [
+    "quiz"
+  ],
+  "author": "Hashobject Team <team@hashobject.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PavelPodviaznikov/NodejsChat/issues"
+  },
+  "homepage": "https://github.com/PavelPodviaznikov/NodejsChat",
+  "dependencies": {
+    "body-parser": "^1.11.0",
+    "express": "^4.11.2",
+    "json5": "^0.4.0",
+    "socket.io": "^1.3.2"
+  }
+}
